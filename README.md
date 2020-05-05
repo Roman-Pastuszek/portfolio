@@ -1,21 +1,21 @@
-# My Tester's portfolio
+## My Tester's portfolio
 
-**#O mnie**
+##O mnie
 
-**#Narzędzia**
+##Narzędzia
 
-**#Kursy
+##Kursy
 *Java
 *Testowanie
 
-**#Techniczne książki**
+#Techniczne książki
 
-**#Grupy testerskie**
+#Grupy testerskie
 
-**#Blogi, strony testerskie**
+#Blogi, strony testerskie
 
-**#Webinary, meetupy**
+#Webinary, meetupy
 
-**#Moja autorska dokumentacja testowa**
+#Moja autorska dokumentacja testowa
 
-**#Moje projekty**
+##Moje projekty
