@@ -5,12 +5,14 @@
 **#Narzędzia**
 
 **#Kursy**
+*Java
+*Testowanie
 
 **#Techniczne książki**
 
 **#Grupy testerskie**
 
-**#Blogi, strony testerskie*
+**#Blogi, strony testerskie**
 
 **#Webinary, meetupy**
 
