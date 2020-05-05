@@ -1,5 +1,19 @@
 # My Tester's portfolio
 
-#About me
+#O mnie
 
 #Narzędzia
+
+#Kursy
+
+#Techniczne książki
+
+#Grupy testerskie
+
+#Blogi, strony testerskie
+
+#Webinary, meetupy
+
+#Moja autorska dokumentacja testowa
+
+#Moje projekty
