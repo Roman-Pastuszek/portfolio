@@ -1,6 +1,5 @@
-# portfolio
+# My Tester's portfolio
 
 #About me
-#My Tester's portfolio
 
 #Narzędzia
