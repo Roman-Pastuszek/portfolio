@@ -2,8 +2,7 @@
 
 ## O mnie
 
-Hi, i'm Romek. If you read this things it means that something about me has interested you. Thank You very much.
-Unfortunatly I don't have comercial experience, only from my studies. That's why in my portfotlio below i writing only about sources to learn teorethical background. Now i really want to get some expierence and used all this knownledge in practis.
+Hi, I'm Romek. If you read this, it means that something in my CV has interested you. Thank you very much. Unfortunately, I have no professional experience, only student work. That is why in my portfolio below I am writing only about sources that I used to learn theoretical knowledge. Now I really want to gain some experience and put all this knowledge into practice.
 
 ## Narzędzia
 * SQL
