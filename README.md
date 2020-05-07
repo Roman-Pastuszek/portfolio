@@ -4,7 +4,7 @@
 
 ## Narzędzia
 * SQL
- * (książka) Larry Lockoff - Język SQL. Przyjazny podręcznik. Wydanie II
+  * (książka) Larry Lockoff - Język SQL. Przyjazny podręcznik. Wydanie II
 
 ## Kursy
 * Java
