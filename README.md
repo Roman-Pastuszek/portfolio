@@ -14,13 +14,8 @@ Hi, I'm Romek. If you read this, it means that something in my CV has interested
   * (online) Kurs Java - JavaStart.pl
 * Testowanie
   * (online) Tester oprogramowania poziom pierwszy - Testowanie.Online 
+  * (online) Kurs Selenium (Java) - JavaStart.pl
 
-
-## Kursy i bootcampy
-* Java
-  * (online) Kurs Java - JavaStart.pl
-* Testowanie
-  * (online) Tester oprogramowania poziom pierwszy - Testowanie.Online 
 
 # Grupy testerskie
 
