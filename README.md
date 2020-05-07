@@ -7,8 +7,15 @@ Hi, I'm Romek. If you read this, it means that something in my CV has interested
 ## Narzędzia
 * SQL
   * (książka) Larry Lockoff - Język SQL. Przyjazny podręcznik. Wydanie II
+* SCRUM
+  * (książka) Mariusz Chrapko - Scrum. O zwinnym zarządzaniu projektami
+* Java
+  * (online) Kurs Java - JavaStart.pl
+* Testowanie
+  * (online) Tester oprogramowania poziom pierwszy - Testowanie.Online 
 
-## Kursy
+
+## Kursy i bootcampy
 * Java
   * (online) Kurs Java - JavaStart.pl
 * Testowanie
