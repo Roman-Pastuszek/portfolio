@@ -14,8 +14,6 @@ Hi, I'm Romek. If you read this, it means that something in my CV has interested
 * Testowanie
   * (online) Tester oprogramowania poziom pierwszy - Testowanie.Online 
 
-# Techniczne książki
-
 # Grupy testerskie
 
 # Blogi, strony testerskie
