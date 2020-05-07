@@ -2,6 +2,7 @@
 
 ## O mnie
 
+Hi, i'm Romek. If you read this things it means that something about me has interested you. Thank You very much.
 Unfortunatly I don't have comercial experience, only from my studies. That's why in my portfotlio below i writing only about sources to learn teorethical background. Now i really want to get some expierence and used all this knownledge in practis.
 
 ## Narzędzia
