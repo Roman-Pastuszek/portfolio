@@ -2,6 +2,8 @@
 
 ## O mnie
 
+Unfortunatly I don't have comercial experience, only from my studies. That's why in my portfotlio below i writing only about sources to learn teorethical background. Now i really want to get some expierence and used all this knownledge in practis.
+
 ## Narzędzia
 * SQL
   * (książka) Larry Lockoff - Język SQL. Przyjazny podręcznik. Wydanie II
